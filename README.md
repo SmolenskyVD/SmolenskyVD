@@ -1,1 +1,1 @@
-# SmolenskyVD
+# SmolenskyVD.github.io
